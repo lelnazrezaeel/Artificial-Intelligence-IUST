@@ -1,5 +1,5 @@
 # Artificial-Intelligence-IUST
-My solutions to Berkeley's CS188 projects, Fall 2022, Dr. Eetemadi.
+My solutions to Berkeley's CS188 projects, Spring 2022, Dr. Eetemadi.
 
 ## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/project.png" alt="project"/> Projects
 ### Project0
